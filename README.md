@@ -20,7 +20,7 @@ Este repositório tem como principal objetivo **organizar, documentar e praticar
 ## 🛠️ Ferramentas e Tecnologias Utilizadas
 
 - ✅ **JAVA** 
-- ✅ **ECLIPSE IDE*
+- ✅ *ECLIPSE IDE*
 - ✅ GIT & GITHUB 
 
 
