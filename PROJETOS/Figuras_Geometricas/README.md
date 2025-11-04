@@ -97,11 +97,3 @@ Todas as classes seguem a mesma estrutura de implementação:
   - `calcArea()`
   - `calcVolume()` *(apenas para figuras espaciais)*
 
----
-
-## ▶️ Como Executar o Projeto
-
-1. Clone o repositório:
-
-   ```bash
-   git clone https://github.com/seu-usuario/figurasPOO-2025.1.git
